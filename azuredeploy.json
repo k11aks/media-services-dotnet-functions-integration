@@ -60,14 +60,14 @@
     },
     "mediaServicesAccountServicePrincipalClientId": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "89efb7ad-943c-4e07-a865-6a218eefd06b",
       "metadata": {
         "description": "Service Principal Client ID to access your media services account. See https://docs.microsoft.com/en-us/azure/media-services/media-services-portal-get-started-with-aad#service-principal-authentication"
       }
     },
     "mediaServicesAccountServicePrincipalClientSecret": {
       "type": "string",
-      "defaultValue": "",
+      "defaultValue": "Ak.8Q~.RzD054QUC5RAc2j8KOJU5-b0ZaiglLc_c",
       "metadata": {
         "description": "Service Principal Client Secret to access your media services account. See https://docs.microsoft.com/en-us/azure/media-services/media-services-portal-get-started-with-aad#service-principal-authentication"
       }
